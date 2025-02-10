@@ -5,10 +5,9 @@
 	title="b2ntp" width="160" height="160" />
 </p>
 
-Hi, I'm TurtleCute, and I love testing my adblocker!<br>
-Sadly, a month ago, my favorite adblock tester was archived. I cleaned and debloated the codebase, and here it is online again!
+This is forked from TurtleCute's repo after d3Host's repo was archived. This is only to fit my personal usage!<br>
 
-## Ad Block Test  [[link]](https://adblock.turtlecute.org)
+## Ad Block Test  
 This tool allows you to check if your adblock solution is blocking enough hosts. With a simple UI and easy UX you can check how much you have blocked. The tool tries to connect to the most common domains for different categories (ads, analytics, bug tracking, social trackers, mix and OEMs).
 
 If you don't block all the hosts but you want to , you can use
