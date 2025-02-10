@@ -201,5 +201,20 @@
 			"weather-analytics-events.apple.com",
 			"notes-analytics-events.apple.com"
 		]
+	},
+	"VN Ads": {
+		"adtimaserver": [
+			"adtimaserver.vn",
+			"api.adtimaserver.vn",
+			"log.adtimaserver.vn",
+			"media.adtimaserver.vn",
+			"media.org.adtimaserver.vn",
+			"staging.api.adtimaserver.vn",
+			"static.adtimaserver.vn",
+			"static2.adtimaserver.vn",
+			"stream.adtimaserver.vn",
+			"stream.org.adtimaserver.vn",
+			"web.api.adtimaserver.vn"
+		]
 	}
 }
